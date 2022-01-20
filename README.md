@@ -1,6 +1,6 @@
-# flutter_test_2
+# Flutter Base
 
-A new Flutter project.
+Barebones flutter skeleton with an API call, UI, etc
 
 ## Getting Started
 
